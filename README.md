@@ -1,6 +1,7 @@
 # E-Guide
 
 A new Flutter project.
+UI design of Travel app
 
 ## Getting Started
 
